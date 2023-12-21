@@ -11,7 +11,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 - Microsoft Azure
 - Microsoft Remote Desktop (Mac)
-- Internet Information Services (IIS)
+- Internet Information Services (IIS) (Web server osTicket runs on)
 - osTicket
 
 <h2>Operating Systems Used </h2>
@@ -42,7 +42,12 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/530a2d16-dd64-49a0-862a-8a33dac7d00a)
 
-- Now that we've installed IIS
+- Installation of IIS should begin
+- Once finished, test this by going to your browswer and typing in 127.0.0.1 (local host)
+- You should be able to see the loaded default ISS website below and know that our web server is up and running
+
+![Screen Shot 2023-12-21 at 4 08 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/265b1b4a-e827-44d8-b003-bb0c57befdc5)
+
 - Go into the installation files and install PHP Manager for IIS, (PHPManagerForIIS_V1.5.0.msi)
 - Double click to Install from Files Explorer
 - Complete the Installation process for PHP Manager.
