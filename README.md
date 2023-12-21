@@ -7,36 +7,38 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop Connection
+- Microsoft Azure
+- Microsoft Remote Desktop (Mac)
 - Internet Information Services (IIS)
-- osTicket (Help Desk Ticketing System)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- MySQl
+- MySQL
 - PHP Manager
-- HeidiSQl
+- HeidiSQlL
 - Rewrite Module
 - Microsoft Visual C++
 
 <h2>Installation Steps</h2>
 
-- Once we are logged into our Virtual Machine
-- Open up the Control Panel
-- Go to Programs and Features
-- Turn Windows Features on or off
-- Enable IIS(Internet Information Services)
-- Expand World Wide Web Services
-- Enable CGI
-- Enable all of the Common HTTP Features
-- Hit OK.
+- Please refer to https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop to set up VM.
+- Apply 2-4 Virtual CPU's & allow it to create a new Virtual Network (Vnet).
+- Once we are logged into your Virtual Machine:
+  - Open up the Control Panel
+  - Go to Programs and Features
+  - Turn Windows Features on or off
+  - Enable IIS(Internet Information Services)
+  - Expand World Wide Web Services
+  - Enable CGI
+  - Enable all of the Common HTTP Features
+  - Hit OK.
 
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/530a2d16-dd64-49a0-862a-8a33dac7d00a)
 
