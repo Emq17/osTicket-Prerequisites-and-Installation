@@ -70,17 +70,24 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 4 35 43 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/daefb105-c3c5-4769-b3dc-ca6ecbd28ba5)
 
-- Download and install VC_redist.x86.exe from the installation files. 
+- Download and install VC_redist.x86.exe from the installation files
+
 ![Screen Shot 2023-12-21 at 4 39 23 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e562b55b-9f7e-47bc-9c72-7fea9aa614dc)
 
- - From the installation files install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+ - Next, just like the last step, install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the installation files
+
+![Screen Shot 2023-12-21 at 4 44 15 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/966844c6-a3fa-42c7-9d37-21eb5a0d38bc)
   
-  - Typical Setup
+  - While installing, choose "Typical" as the Setup Type
   - Launch Configuration Wizard (after installation)
   - Standard Configuration
-  - Password1 
 
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/de834eb0-5630-4d66-919c-eee98b03e8fa)
+![Screen Shot 2023-12-21 at 4 45 33 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a4a6f15d-4f84-4f85-be6c-151616714f79)
+
+  - Install as Windows Service
+  - Create root password
+  - Execute
+
 
  - Open IIS as an Administrator
  - Go to PHP Manager
