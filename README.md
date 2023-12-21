@@ -66,8 +66,8 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
   
   ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/9c73e0c4-bfef-4443-a932-1862ac7607a6)
 
-- From the installation files
-- unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP
+- Right click and click "Extract all"
+- Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP folder
 
   
   ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/32360f37-fde1-48b3-963c-9abf0fe84e0a)
