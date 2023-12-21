@@ -86,23 +86,27 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
   - Install as Windows Service
   - Create root password
-  - Execute
+  - Execute then click Finish
 
+**Currently installing database on actual computer to store application data (ex. tickets)**
 
- - Open IIS as an Administrator
- - Go to PHP Manager
- - Register new PHP version
- - Browse and choose the file PHP-CGI
+![Screen Shot 2023-12-21 at 4 51 04 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/f14c32db-119b-4980-8f48-581859d08286)
+
+ - Open IIS as an Administrator using the right click
+
+![Screen Shot 2023-12-21 at 4 53 56 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/446f5805-2194-409a-b0f4-a2ad47999bfb)
+
+ - Double click PHP Manager
+ - Then choose "Register new PHP version"
+ - Browse and choose the file PHP-CGI in C:\PHP folder
+
+![Screen Shot 2023-12-21 at 4 56 52 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e66685d9-3feb-4b51-805b-10d85ccebf21)
+
  - Click Open
- - Restart the Server
+ - Hit OK
+ - On the left hand side inside IIS Manager, click on the name of the server then restart
 
-  
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/e8f58a87-b7d9-4c76-b052-da293ab79ac1)
-
-
-
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/68b6a8f9-687f-4d36-b243-b7c0b0692aa5)
-
+![Screen Shot 2023-12-21 at 4 58 54 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e7413f8a-ee87-4a57-bf85-bc94c57b0b9c)
 
  - Install osTicket v1.15.8 
  - Locate the Upload folder within
