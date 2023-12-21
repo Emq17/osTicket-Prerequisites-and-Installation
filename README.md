@@ -23,7 +23,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - Installation Files https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 - MySQL
 - PHP Manager
-- HeidiSQlL
+- HeidiSQL
 - Rewrite Module (Requirement for osTicket to work)
 - Microsoft Visual C++
 
@@ -110,12 +110,12 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
  - Install osTicket v1.15.8 from installation files
  - Extract and copy the Upload folder into c:\inetpub\wwwroot (web servers main folder)
+
+![Screen Shot 2023-12-21 at 5 41 37 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/7bcc5396-b992-41e0-9950-574c1828c3ad)
+
  - Within C:\inetpub\wwwroot, rename “upload” to “osTicket”
 
-
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/e0df4bc4-6040-47ef-88ba-36691f9a61a9)
-
-![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/fb259c8b-dd1f-4c8f-9bf7-17c4baa18469)
+![Screen Shot 2023-12-21 at 5 42 29 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/50f80c8b-dda5-4c51-8e8c-326472d71573)
 
 - Go to IIS Sites
 - Default Web Site
