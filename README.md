@@ -108,9 +108,8 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 4 58 54 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e7413f8a-ee87-4a57-bf85-bc94c57b0b9c)
 
- - Install osTicket v1.15.8 
- - Locate the Upload folder within
- - Drag the Upload Folder to c:\inetpub\wwwroot
+ - Install osTicket v1.15.8 from installation files
+ - Extract and copy the Upload folder into c:\inetpub\wwwroot (web servers main folder)
  - Within C:\inetpub\wwwroot, rename “upload” to “osTicket”
 
 
