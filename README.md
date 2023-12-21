@@ -23,7 +23,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - MySQL
 - PHP Manager
 - HeidiSQlL
-- Rewrite Module
+- Rewrite Module (Requirement for osTicket to work)
 - Microsoft Visual C++
 
 <h2>Installation Steps</h2>
@@ -48,22 +48,19 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 4 08 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/265b1b4a-e827-44d8-b003-bb0c57befdc5)
 
-- Go into the installation files and install PHP Manager for IIS, (PHPManagerForIIS_V1.5.0.msi)
-- Double click to Install from Files Explorer
-- Complete the Installation process for PHP Manager.
-
+- Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+ 
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/99bf3a59-8d45-44a8-b43e-e818a7dc32bb)
 
-- From here, Install the Rewrite Module(rewrite_amd64_en-US.msi)
-- In the same pattern from before, until completion.
-
+- Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
   
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/0e4b3d58-4f5e-452f-8ddb-c21d7b48d235)
 
+- Next we have to create a directory for PHP on the local hard drive (C:\PHP)
 - Now go into Files Explorer
 - This PC
 - Windows(C:)
-- Create a folder named "PHP"
+- Right click and create a new folder named "PHP"
 
   
   ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/9c73e0c4-bfef-4443-a932-1862ac7607a6)
