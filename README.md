@@ -30,14 +30,14 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 - Please refer to https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop to set up VM.
   - Apply 2-4 Virtual CPU's & allow it to create a new Virtual Network (Vnet).
-- Once we are logged into your Virtual Machine:
+- Once we are logged into your Virtual Machine, install and enable IIS with Windows CGI:
   - Open up the Control Panel
-  - Go to Programs and Features
-  - Turn Windows Features on or off
-  - Enable IIS(Internet Information Services)
-  - Expand World Wide Web Services
-  - Enable CGI
-  - Enable all of the Common HTTP Features
+  - Go to Programs
+  - Under "Programs and Features", click "Turn Windows features on or off"
+  - Check box & enable "Internet Information Services" then hit expand
+  - A dropdown should appear. Expand "World Wide Web Services" then "Application Development Features"
+  - Check box to enable CGI then collapse dropdown for "Application Development Features"
+  - Expand "HTTP Features" & enable all by making sure every box is checked
   - Hit OK.
 
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/530a2d16-dd64-49a0-862a-8a33dac7d00a)
