@@ -68,14 +68,10 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - Right click and choose "Extract all"
 - Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP folder
 
-  
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/32360f37-fde1-48b3-963c-9abf0fe84e0a)
+![Screen Shot 2023-12-21 at 4 35 43 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/daefb105-c3c5-4769-b3dc-ca6ecbd28ba5)
 
-
-- From the installation files install VC_redist.x86.exe.
-
-
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/6882d61c-ae1d-4287-8ea7-6904bf458dbc)
+- Download and install VC_redist.x86.exe from the installation files. 
+![Screen Shot 2023-12-21 at 4 39 23 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e562b55b-9f7e-47bc-9c72-7fea9aa614dc)
 
  - From the installation files install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
   
