@@ -41,7 +41,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
   - Expand "HTTP Features" & enable all by making sure every box is checked
   - Hit OK.
 
-![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/530a2d16-dd64-49a0-862a-8a33dac7d00a)
+![Screen Shot 2023-12-21 at 4 30 42 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/c9baf7b1-c2cd-4b93-ae15-cb90dbd22b75)
 
 - Installation of IIS should begin
 - Once finished, test this by going to your browswer and typing in 127.0.0.1 (local host)
@@ -50,12 +50,12 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 4 08 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/265b1b4a-e827-44d8-b003-bb0c57befdc5)
 
 - Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
- 
-![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/99bf3a59-8d45-44a8-b43e-e818a7dc32bb)
+
+![Screen Shot 2023-12-21 at 4 31 50 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/6b62ab94-8f01-4ff8-8381-f330869689ef)
 
 - Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
-  
-![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/0e4b3d58-4f5e-452f-8ddb-c21d7b48d235)
+
+![Screen Shot 2023-12-21 at 4 32 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/133cd9ae-5ce3-4906-b9a8-8308e7c1b9fa)
 
 - Next we have to create a directory for PHP on the local hard drive (C:\PHP)
 - Now go into Files Explorer
@@ -63,10 +63,9 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - Windows(C:)
 - Right click and create a new folder named "PHP"
 
-  
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/9c73e0c4-bfef-4443-a932-1862ac7607a6)
+![Screen Shot 2023-12-21 at 4 33 38 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e5c550a5-9278-4ad3-8b80-bfa4cc39d9f0)
 
-- Right click and click "Extract all"
+- Right click and choose "Extract all"
 - Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP folder
 
   
