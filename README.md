@@ -75,7 +75,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 4 32 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/133cd9ae-5ce3-4906-b9a8-8308e7c1b9fa)
 
 - Next we have to create a directory for PHP on the local hard drive (C:\PHP)
-- Now go into Files Explorer
+- Go into Files Explorer
 - This PC
 - Windows(C:)
 - Right click and create a new folder named "PHP"
