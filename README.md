@@ -33,15 +33,32 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
   - Apply 2-4 Virtual CPU's & allow it to create a new Virtual Network (Vnet).
 - Once we are logged into your Virtual Machine, install and enable IIS with Windows CGI:
   - Open up the Control Panel
+
+![Screen Shot 2023-12-21 at 8 39 42 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/90a9a247-d4a6-4cf6-a975-210d4b9b0c55)
+
+![Screen Shot 2023-12-21 at 8 40 18 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/c18e109c-aa4a-423c-a8c8-e030b5cf1a63)
+
   - Go to Programs
+
+![Screen Shot 2023-12-21 at 8 40 38 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e13ea526-0ee1-4cb9-915d-b871c46c02f3)
+
   - Under "Programs and Features", click "Turn Windows features on or off"
+
+![Screen Shot 2023-12-21 at 8 41 27 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/bb0d2fbd-5828-4ebe-9ac6-c6a2b084d4d9)
+
   - Check box & enable "Internet Information Services" then hit expand
+
+![Screen Shot 2023-12-21 at 8 42 16 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/2312365d-882b-4d08-949a-f5fad6e05be2)
+
   - A dropdown should appear. Expand "World Wide Web Services" then "Application Development Features"
   - Check box to enable CGI then collapse dropdown for "Application Development Features"
+
+![Screen Shot 2023-12-21 at 8 43 04 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/7aeac3cf-0f28-412e-8ddc-b346ec8994f5)
+
   - Expand "HTTP Features" & enable all by making sure every box is checked
   - Hit OK.
 
-![Screen Shot 2023-12-21 at 4 30 42 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/c9baf7b1-c2cd-4b93-ae15-cb90dbd22b75)
+![Screen Shot 2023-12-21 at 8 44 59 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ddfcea22-1170-44ce-a766-f08df22ca6d5)
 
 - Installation of IIS should begin
 - Once finished, test this by going to your browswer and typing in 127.0.0.1 (local host)
