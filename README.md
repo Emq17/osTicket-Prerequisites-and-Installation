@@ -148,45 +148,63 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 7 32 00 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/4c6005da-0621-4594-962a-22d29db191a3)
 
+- Note that some extensions below are now enabled
 
-- Go to Browse *80 (http) -> Cotinue 
+![Screen Shot 2023-12-21 at 7 35 30 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ac3f4a74-72e3-4772-8f2c-fc9e8b6643c0)
 
+- Next thing we're going to do is go to File Explorer
+- C:\inetpub\wwwroot\osTicket
+- Open "include" folder
+- Find "ost-sampleconfig.php"
+- Change the file name to "ost-config.php"
 
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/c66ec2f2-c39d-412a-a807-5e5fa4f71331)
+![Screen Shot 2023-12-21 at 7 37 20 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/b29f40c6-32be-46ff-92b6-a089ce594bfc)
 
-
-- Go to File Explorer
-- C:\inetpub
-- wwwroot
-- osTicket
-- include
-- ost-sampleconfig.php
-- Change the file name to ost-config.php
-- Propteries
-- Security (advanced)
+- Next we will set permissions on this so everyone has the ability to do anything they want to this file
+- Right click the file
+- Click "Properties"
+- "Security" then "Advanced" near the bottom
 - Disable Inheritance
-- Add Everyone to full control
-- Apply and Ok
-- Go back to Local Host Website and Continue
+
+![Screen Shot 2023-12-21 at 7 40 02 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/5889320b-4d2e-48f7-a047-65ee0ea7a818)
+
+- Choose "Remove all inherited permissions from this object"
+
+![Screen Shot 2023-12-21 at 7 41 16 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ad87ad22-ec57-4263-b2b8-18ba6acbc083)
+
+- Click "Add" then "Select a principle"
+- Type out "Everyone" then Check Names
+- Hit "OK"
+
+![Screen Shot 2023-12-21 at 7 42 21 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/3340df81-2d14-4f7c-8845-73e013f998ea)
+
+- Check all boxes for "Basic permissions:"
+- Hit "Ok"
+- Then "Apply", "Ok", and "Ok"
 
 
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/26da08c4-18e0-4348-928c-222058ee940b)
+![Screen Shot 2023-12-21 at 7 43 03 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a66b3fda-8a45-4655-a6b5-d5ef00fa52b3)
 
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/2dca7648-7a0a-4916-b050-7b21d278cbdc)
+- Finish completing all Basic Installation Information in osTicket browser up until the Database Settings
+- I recommending taking note of everything in case you'll need it for later
+  
+![Screen Shot 2023-12-21 at 7 47 56 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a91d00d8-f3ad-48b4-93c3-3e6403d14cd6)
 
+- Before continuing, we must setup our database 
+- Install "HeidiSQL" from the installation files (this actually allows us to connect to the SQL server and then we're going to setup the database the osTicket is going to use)
+- Open Heidi SQL (this is what we call a database client which lets you connect to the database and lets you interact with it)
 
+![Screen Shot 2023-12-21 at 7 58 01 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/4a9e91a3-e0b0-477b-a1f2-78493dc099dc)
 
-- Fill out all of the osTicket Basic Installation Information and stop at the database settings.
-
-
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/eac087a6-2cde-4c59-9e88-14719fc92ec4)
-
-
-- From the installation files install HeidiSQL
-- Open Heidi SQL
 - Create a new session
+
+![Screen Shot 2023-12-21 at 7 59 43 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/752eac6d-747e-4765-97a2-e1d67f279044)
+
 - root
 - Password1
+
+![Screen Shot 2023-12-21 at 8 01 51 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e3447dca-0626-413f-bbd3-f0797e594d7e)
+
 - Connect to the session
 - Create a database called “osTicket”
 - Click Open
