@@ -202,17 +202,26 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 - root
 - Password1
+- Click "Open"
+- Now we have our connection to mySQL server
 
 ![Screen Shot 2023-12-21 at 8 01 51 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e3447dca-0626-413f-bbd3-f0797e594d7e)
 
-- Connect to the session
+![Screen Shot 2023-12-21 at 8 04 14 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/66174947-bda9-4bc8-9071-2105df86f310)
+
+- Create a database called "osTicket" inside of "HeidiSQL"
+
+![Screen Shot 2023-12-21 at 8 06 26 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/02a45270-b804-4bfc-bb07-7e0ced7ead8b)
+
+![Screen Shot 2023-12-21 at 8 06 51 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/8a6de39c-bb01-4363-b918-07336e03d231)
+
+
+- Connect setting things up in the browser
 - Create a database called “osTicket”
 - Click Open
 - Place all of the information into Database Settings
 - Install now
 
-
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/3fba5b30-f5f1-4697-a625-33adf724831a)
 
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/a46fff1e-b672-4147-96a3-3fcaa3e585e8)
 
