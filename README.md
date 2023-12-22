@@ -208,7 +208,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 7 47 56 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a91d00d8-f3ad-48b4-93c3-3e6403d14cd6)
 
 - Before continuing, we must setup our database 
-- Install "HeidiSQL" from the installation files (this actually allows us to connect to the SQL server and then we're going to setup the database the osTicket is going to use)
+- Install "HeidiSQL" from the installation files (this actually allows us to connect to the SQL server)
 - Open Heidi SQL (this is what we call a database client which lets you connect to the database and lets you interact with it)
 
 ![Screen Shot 2023-12-21 at 7 58 01 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/4a9e91a3-e0b0-477b-a1f2-78493dc099dc)
