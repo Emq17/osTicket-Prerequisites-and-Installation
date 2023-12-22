@@ -246,7 +246,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 8 10 28 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ba946ce7-de30-48ef-a77a-215dd12aa8eb)
 
 - To conclude things, lets clean things up
-- Delete just the "Setup" folder at C:\inetpub\wwwroot\osTicket\Setup
+- Delete the "Setup" folder at C:\inetpub\wwwroot\osTicket\Setup
 
 ![Screen Shot 2023-12-21 at 8 14 59 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/8d2236a7-8505-4a32-9b0c-37d4a7c265f5)
 
