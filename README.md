@@ -216,20 +216,62 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 8 06 51 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/8a6de39c-bb01-4363-b918-07336e03d231)
 
 
-- Connect setting things up in the browser
-- Create a database called “osTicket”
-- Click Open
-- Place all of the information into Database Settings
-- Install now
+- Finish setting things up in the last part of the browsers Database Settings
+- MySQL Database: osTicket
+- MySQL Username: root
+- MySQL Password: Password1
+- Click "Install Now"
+  
+![Screen Shot 2023-12-21 at 8 07 59 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/26b9a713-58a8-405f-aeab-07d2e4a8e8a3)
+
+- You've successfully installed osTicket
+
+![Screen Shot 2023-12-21 at 8 10 28 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ba946ce7-de30-48ef-a77a-215dd12aa8eb)
+
+- To conclude things, lets clean things up
+- Delete just the "Setup" folder at C:\inetpub\wwwroot\osTicket\Setup
+
+![Screen Shot 2023-12-21 at 8 14 59 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/8d2236a7-8505-4a32-9b0c-37d4a7c265f5)
+
+- Set Permissions to "Read" only at C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+![Screen Shot 2023-12-21 at 8 17 01 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/9a50c04a-3358-41d1-a2ab-c5a6fedc2ab0)
+
+- Go to "Properties"
+
+![Screen Shot 2023-12-21 at 8 18 05 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/56787138-4fe5-437a-adcd-73c7efd83bd0)
+
+- Go to "Security"
+
+![Screen Shot 2023-12-21 at 8 18 46 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/8f84edbe-43c3-4ce7-a2d1-7fb18640e440)
+
+- Go to "Advanced"
+- Click to highlight "Everyone"
+- Hit "Edit"
+- Uncheck everything except "Read & execute" and "Read"
+- Click "Ok", "Apply", then "OK"
+  
+![Screen Shot 2023-12-21 at 8 19 46 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/33fed67c-4802-4665-9d3f-36401c7935b1)
 
 
-![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/a46fff1e-b672-4147-96a3-3fcaa3e585e8)
+- Congratulations. Your intitial installation of osTicket is now complete
+- Use these URL links to:
+  - Log in as an Admin to do Admin things: http://localhost/osTicket/scp/login.php
+  
+  ![Screen Shot 2023-12-21 at 8 25 17 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/c03d015c-9a93-44f7-a824-d936a43b0d5b)
+
+  - Log in as en End User to actually create tickets: http://localhost/osTicket/
 
 
-- You've installed osTicket successfully
 
 
 
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/0986351f-e7ef-48f6-81b7-8b367f6958fe)
 
- Using this <a href="http://localhost/osTicket/scp/login.php">Link</a>, you'll enter your email or username and password to enter into osTicket, This should be your screen and that will conclude our project! CONGRAT!!!
+
+
+
+
+
+
+
+
