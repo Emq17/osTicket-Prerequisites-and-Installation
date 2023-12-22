@@ -29,7 +29,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 <h2>Installation Steps</h2>
 
-- Please refer to https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop to set up VM.
+- Please refer to https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop to set up your VM.
   - Apply 2-4 Virtual CPU's & allow it to create a new Virtual Network (Vnet).
 - Once we are logged into your Virtual Machine, install and enable IIS with Windows CGI:
   - Open up the Control Panel
