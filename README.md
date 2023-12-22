@@ -250,7 +250,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 8 14 59 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/8d2236a7-8505-4a32-9b0c-37d4a7c265f5)
 
-- Set Permissions to "Read" only at C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Set Permissions to "Read & execute" and "Read" only at C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 ![Screen Shot 2023-12-21 at 8 17 01 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/9a50c04a-3358-41d1-a2ab-c5a6fedc2ab0)
 
