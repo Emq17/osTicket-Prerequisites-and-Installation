@@ -51,7 +51,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 8 42 16 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/2312365d-882b-4d08-949a-f5fad6e05be2)
 
   - A dropdown should appear. Expand "World Wide Web Services" then "Application Development Features"
-  - Check the box to enable CGI then collapse dropdown for "Application Development Features"
+  - Check box to enable CGI then collapse dropdown for "Application Development Features"
 
 ![Screen Shot 2023-12-21 at 8 43 04 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/7aeac3cf-0f28-412e-8ddc-b346ec8994f5)
 
