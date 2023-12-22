@@ -256,11 +256,10 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 - Congratulations. Your intitial installation of osTicket is now complete
 - Use these URL links to:
-  - Log in as an Admin to do Admin things: http://localhost/osTicket/scp/login.php
+  - Log in as an Admin to do Administrative Tasks: http://localhost/osTicket/scp/login.php
+  - Or log in as en End User to actually create tickets: http://localhost/osTicket/
   
   ![Screen Shot 2023-12-21 at 8 25 17 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/c03d015c-9a93-44f7-a824-d936a43b0d5b)
-
-  - Log in as en End User to actually create tickets: http://localhost/osTicket/
 
 
 
