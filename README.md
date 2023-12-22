@@ -121,15 +121,32 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - Click restart just like in previous step  
 - Then expand "Sites" on the left hand side
 - Expand Default Web Site
-- Open osTicket
-- On the right click "Browse *:80 (http)"
+- Click osTicket
+- Then on the right side click "Browse *:80 (http)"
 
 ![Screen Shot 2023-12-21 at 5 46 36 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/21c8fd2d-a067-4be5-af20-28511b90a19b)
 
-- Enable or diable an extension
-- Enable php_imap.dll, php_intl.dll, php_opcache.dll 
+- Not that some extensions are not enabled
 
-  ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/9d6b2b3e-f78a-48cc-a181-3badebd7c8a6)
+![Screen Shot 2023-12-21 at 7 25 36 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/33af2a40-a3d2-4ded-b211-8c7beed5b979)
+
+- Go back to IIS (Sites/Default Web Site/osTicket)
+- Click PHP Manager
+- Find "Enable or diable an extension" at the bottom
+
+![Screen Shot 2023-12-21 at 7 27 54 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/3ad03732-106b-4d16-9ad7-ff12882730de)
+
+- Enable
+  - "php_imap.dll"
+  - "php_intl.dll"
+  - "php_opcache.dll"
+
+
+![Screen Shot 2023-12-21 at 7 29 36 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/76eb7776-10cd-4dc1-a6b8-29a0dcd570f3)
+
+![Screen Shot 2023-12-21 at 7 31 11 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/d3d4b345-78d6-4937-bb6e-c99c118bc6d7)
+
+![Screen Shot 2023-12-21 at 7 32 00 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/4c6005da-0621-4594-962a-22d29db191a3)
 
 
 - Go to Browse *80 (http) -> Cotinue 
