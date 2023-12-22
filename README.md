@@ -55,7 +55,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 8 43 04 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/7aeac3cf-0f28-412e-8ddc-b346ec8994f5)
 
-  - Expand "HTTP Features" & enable all by making sure every box is checked
+  - Expand "Common HTTP Features" & enable all by making sure every box is checked
   - Hit OK.
 
 ![Screen Shot 2023-12-21 at 8 44 59 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ddfcea22-1170-44ce-a766-f08df22ca6d5)
@@ -66,11 +66,11 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 4 08 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/265b1b4a-e827-44d8-b003-bb0c57befdc5)
 
-- Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- From the Installation Files, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 ![Screen Shot 2023-12-21 at 4 31 50 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/6b62ab94-8f01-4ff8-8381-f330869689ef)
 
-- Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+- Then also download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 ![Screen Shot 2023-12-21 at 4 32 44 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/133cd9ae-5ce3-4906-b9a8-8308e7c1b9fa)
 
