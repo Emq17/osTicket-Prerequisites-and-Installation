@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![Screen Shot 2023-12-24 at 3 58 07 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/016a2240-145c-4ef1-8738-1a82117ad540)
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This step-by-step walkthrough is designed to help provide a detailed framework guiding you through the essential prerequisites & installation process of the open-source help desk ticketing system known as "osTicket."<br />
