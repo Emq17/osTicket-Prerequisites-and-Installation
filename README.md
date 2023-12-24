@@ -2,8 +2,9 @@
 <img src="https://i.imgur.com/C6MnrDC.png" alt="Logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This step-by-step walkthrough is designed to help provide a detailed framework guiding you through the essential prerequisites & installation process of the open-source help desk ticketing system known as "osTicket."<br />
+<h1 align="center">Prerequisites and Installation</h1>
+
+- This step-by-step walkthrough is designed to help provide a detailed framework guiding you through the essential prerequisites & installation process of the open-source help desk ticketing system known as "osTicket."<br />
 
 
 
