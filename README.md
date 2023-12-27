@@ -228,7 +228,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 7 59 43 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/752eac6d-747e-4765-97a2-e1d67f279044)
 
 - User: root
-- Password: Password1
+- Password: Password1234
 - Click "Open"
 - Now we have our connection to mySQL server
 
