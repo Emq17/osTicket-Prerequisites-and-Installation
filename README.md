@@ -236,7 +236,9 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 8 04 14 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/66174947-bda9-4bc8-9071-2105df86f310)
 
-- Create a database called "osTicket" inside of "HeidiSQL"
+- Right click `Unnamed`
+  - Click `Create new` and then `Database`
+- Create a database named "osTicket" then hit `OK` 
 
 ![Screen Shot 2023-12-21 at 8 06 26 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/02a45270-b804-4bfc-bb07-7e0ced7ead8b)
 
