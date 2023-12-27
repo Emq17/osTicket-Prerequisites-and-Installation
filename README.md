@@ -248,10 +248,10 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - Finish setting things up in the last part of the browsers Database Settings
 - MySQL Database: osTicket
 - MySQL Username: root
-- MySQL Password: Password1
-- Click "Install Now"
+- MySQL Password: Password1234
+- Click `Install Now` at the bottom
 
-![Screen Shot 2023-12-21 at 9 19 44 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/98eba0ce-ea69-4568-988c-2cbe8578c447)
+![Screen Shot 2023-12-27 at 3 10 46 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ee18ebaa-a8bd-4e3f-a355-df082dcaa94e)
 
 - You've successfully installed osTicket
 
