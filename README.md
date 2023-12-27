@@ -210,7 +210,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 7 43 03 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a66b3fda-8a45-4655-a6b5-d5ef00fa52b3)
 
-- Finish completing all Basic Installation Information in osTicket browser up until the Database Settings
+- Finish completing all Basic Installation Information in osTicket browser up until the Database Settings by hitting `Continue` on the very bottom of the browser
 - I recommending taking note of everything in case you'll need it for later
   
 ![Screen Shot 2023-12-21 at 7 47 56 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a91d00d8-f3ad-48b4-93c3-3e6403d14cd6)
