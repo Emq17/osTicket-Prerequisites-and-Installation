@@ -6,8 +6,6 @@
 
 This step-by-step walkthrough is designed to help provide a detailed framework guiding you through the essential prerequisites & installation process of the open-source help desk ticketing system known as "osTicket."<br />
 
-
-
 <h2>Environments and Technologies</h2>
 
 - Microsoft Azure
@@ -17,7 +15,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -32,6 +30,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 - Please refer to https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop to set up your VM.
   - Apply 2-4 Virtual CPU's & allow it to create a new Virtual Network (Vnet).
+  - Use Windows 10 (22H2) for your "image"
 - Once we are logged into your Virtual Machine, install and enable IIS with Windows CGI:
   - Open up the Control Panel
 
