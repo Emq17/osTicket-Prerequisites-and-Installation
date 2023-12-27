@@ -129,8 +129,8 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 4 58 54 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e7413f8a-ee87-4a57-bf85-bc94c57b0b9c)
 
- - Install osTicket v1.15.8 from installation files
- - Extract and copy the Upload folder into c:\inetpub\wwwroot (web servers main folder)
+- Install osTicket v1.15.8 from installation files
+- Extract and copy the Upload folder into c:\inetpub\wwwroot (web servers main folder)
   - Open an extra File Explorer window
   - Navigate to c:\inetpub\wwwroot folder
   - Simply drag and drop "upload" folder from the first window into the "wwwroot" folder in the new window
@@ -144,15 +144,15 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 5 42 29 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/50f80c8b-dda5-4c51-8e8c-326472d71573)
 
 - Go to IIS Manager
-- Click restart just like in previous step  
+  - Click restart just like in previous step  
 - Then expand "Sites" on the left hand side
 - Expand Default Web Site
 - Click osTicket
-- Then on the right side click "Browse *:80 (http)"
+  - On the right side click "Browse *:80 (http)"
 
 ![Screen Shot 2023-12-21 at 5 46 36 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/21c8fd2d-a067-4be5-af20-28511b90a19b)
 
-- Not that some extensions are not enabled
+- Note that some extensions are not enabled
 
 ![Screen Shot 2023-12-21 at 7 25 36 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/33af2a40-a3d2-4ded-b211-8c7beed5b979)
 
