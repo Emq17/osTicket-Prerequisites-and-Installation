@@ -84,7 +84,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 - Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from `Installation Files` (https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view) into C:\PHP folder
   - Go to Downloads Tab in File Explorer to find the file after installing
-    - Right click and choose "Extract all"
+    - Right click and choose `Extract all`
     - Click `Browse` and navigate to the "PHP" folder that you created then click `Extract`
 - This basically just dumps all the downloaded files into there
 
