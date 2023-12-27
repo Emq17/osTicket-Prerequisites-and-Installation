@@ -167,14 +167,13 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
   - "php_intl.dll"
   - "php_opcache.dll"
 
-
 ![Screen Shot 2023-12-21 at 7 29 36 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/76eb7776-10cd-4dc1-a6b8-29a0dcd570f3)
 
 ![Screen Shot 2023-12-21 at 7 31 11 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/d3d4b345-78d6-4937-bb6e-c99c118bc6d7)
 
 ![Screen Shot 2023-12-21 at 7 32 00 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/4c6005da-0621-4594-962a-22d29db191a3)
 
-- Note that some extensions below are now enabled
+- After enabling the last one, all you have to do is refresh the browser and you will see that some extensions below are now enabled
 
 ![Screen Shot 2023-12-21 at 7 35 30 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/ac3f4a74-72e3-4772-8f2c-fc9e8b6643c0)
 
