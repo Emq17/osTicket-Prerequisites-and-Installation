@@ -82,8 +82,8 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 
 ![Screen Shot 2023-12-21 at 4 33 38 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/e5c550a5-9278-4ad3-8b80-bfa4cc39d9f0)
 
+- Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from `Installation Files` (https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view) into C:\PHP folder
 - Right click and choose "Extract all"
-- Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP folder
 
 ![Screen Shot 2023-12-21 at 4 35 43 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/daefb105-c3c5-4769-b3dc-ca6ecbd28ba5)
 
