@@ -105,7 +105,8 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 ![Screen Shot 2023-12-21 at 4 45 33 AM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/a4a6f15d-4f84-4f85-be6c-151616714f79)
 
   - Install as Windows Service
-  - Create root password
+  - Create root password (don't have to check box)
+  - Leave everything as is
   - Execute then click Finish
 
 **Currently installing database on actual computer to store application data (ex. tickets)**
