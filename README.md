@@ -13,7 +13,7 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
 - Internet Information Services (IIS) (Web server osTicket runs on)
 - osTicket
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems</h2>
 
 - Windows 10 (22H2)
 
