@@ -290,8 +290,13 @@ This step-by-step walkthrough is designed to help provide a detailed framework g
   
   ![Screen Shot 2023-12-21 at 8 25 17 PM](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/assets/147126755/c03d015c-9a93-44f7-a824-d936a43b0d5b)
 
-
-
+- Internet Information Services (IIS): A web server used to host the osTicket web application.
+- CGI and Common HTTP Features in IIS: Enables dynamic content generation and basic web hosting capabilities.
+- IIS Management Console: Provides a user interface for configuring and managing the IIS web server.
+- PHP Manager for IIS: Manages PHP installations on IIS, crucial for running osTicket.
+- Rewrite Module for IIS: Allows URL rewriting for improved site navigation and security.
+- PHP: A server-side scripting language used by osTicket for web development.
+- MySQL: A database management system where osTicket stores its data.
 
 
 
